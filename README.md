@@ -1,1 +1,1 @@
-# solidity-internship
+# minted crowdsale
